@@ -4,9 +4,7 @@ python solver for absolute value expressions
 
 designed to work mostly with nested absolute values of polynomial expressions
 
-## note
-
-this is an expiremental project I made to see if I could get python to do my math hw
+this is an experimental project I made to see if I could get python to do my precalculus hw
 
 ## features
 
