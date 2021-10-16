@@ -1,6 +1,8 @@
-# abs-breaker
+# abs
 
-absolute value expression breaker
+python solver for absolute value expressions
+
+designed to work mostly with nested absolute values of polynomial expressions
 
 ## note
 
@@ -18,6 +20,7 @@ this is an expiremental project I made to see if I could get python to do my mat
 * parse polynomials from string
 * clean code to make expressions easier to build
 * make sure piecewise, polynomial, and term are polymorphic
+* find roots to *some* higher order polynomials
 
 ## bugs
 
